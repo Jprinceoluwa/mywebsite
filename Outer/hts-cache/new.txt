@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+07:05:49	306/306	---M--	200	added ('Robots.txt')	text/plain	date:Thu,%2001%20Jun%202023%2006:05:51%20GMT	https://dev-jprince.pantheonsite.io/robots.txt		(from )
+07:05:51	177160/177160	---M-Z	200	added ('OK')	text/html	date:Thu,%2001%20Jun%202023%2006:05:52%20GMT	https://dev-jprince.pantheonsite.io/	C:/Users/Dell/Downloads/my%20site/dev-jprince.pantheonsite.io/index.html	(from )
+07:05:52	9533/9533	---MCZ	200	added ('OK')	application/javascript	etag:%22253d-z+DdauZb2ReOeCcFBz+suIq8h78%22	https://unpkg.com/typed.js@2.0.132/dist/typed.umd.js	C:/Users/Dell/Downloads/my%20site/unpkg.com/typed.js@2.0.132/dist/typed.umd.js	(from https://dev-jprince.pantheonsite.io/)
